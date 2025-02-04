@@ -1,5 +1,5 @@
 import * as AccordionPrimitive from "@radix-ui/react-accordion"
-import { cn } from "@/app/lib/utils"
+import { cn } from "@/lib/utils"
 import { ChevronDown } from "lucide-react"
 
 interface AccordionProps extends AccordionPrimitive.AccordionSingleProps {}

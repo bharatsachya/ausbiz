@@ -1,6 +1,6 @@
 import { Suspense } from "react"
-import NameForm from "./components/name-form"
-import Explanation from "./components/explanation"
+import NameForm from "@/components/name-form"
+import Explanation from "@/components/explanation"
 
 export default function Home() {
   return (
